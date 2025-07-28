@@ -1,12 +1,12 @@
 # Hi, I'm Son Tran 👋
 
 🎓 A Software Engineering graduate from HUTECH University (GPA: 3.5/4.0)  
-💼 Currently working as a Junior Xamarin Android Developer at UGOTECHS  
+💼 Currently working as a Junior Android Developer at UGOTECHS  
 📍 Based in Ho Chi Minh City, Vietnam  
 
 ## 🔧 Tech Stack
 - Xamarin Android, C#, .NET
-- Kotlin, MVVM, Jetpack Navigation, Room Database
+- Kotlin, MVVM, Jetpack Navigation, Room Database, Firebase Cloud Message (push notification)
 - SQLite, WebSocket, HTTP APIs
 - Dependency Injection (Koin), Shared Preferences
 - Git, Trello
