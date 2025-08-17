@@ -1,7 +1,7 @@
 # Hi, I'm Son Tran 👋
 
 🎓 A Software Engineering graduate from HUTECH University (GPA: 3.5/4.0)  
-💼 Currently working as a Junior Android Developer at UGOTECHS  
+💼 Currently working as a Junior Android Developer at BIEXCE  
 📍 Based in Ho Chi Minh City, Vietnam  
 
 ## 🔧 Tech Stack
@@ -13,7 +13,7 @@
 
 ## 🧠 Key Project
 
-### 🔹 [Random Chat App](https://github.com/Lavie92/RandomChatApp)
+### 🔹 [Random Chat App](https://github.com/son-lavie/RandomChatApp)
 An anonymous messaging app built with Kotlin and MVVM architecture:
 - Profanity filter and NSFW image blurring for safe communication
 - Nearby user matching and user reporting features
