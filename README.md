@@ -11,6 +11,14 @@
 - Dependency Injection (Koin), Shared Preferences
 - Git, Trello
 
+## 📊 Coding Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=son-lavie&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=son-lavie&layout=compact&theme=dracula&custom_title=Son%20Tran%27s%20Coding%20Stats" />
+</a>
+
 ## 🧠 Key Project
 
 ### 🔹 [Random Chat App](https://github.com/son-lavie/RandomChatApp)
@@ -26,4 +34,3 @@ An anonymous messaging app built with Kotlin and MVVM architecture:
 
 ## 📫 Contact
 - Email: **vansontran.it@gmail.com**
-- GitHub: [github.com/Lavie92](https://github.com/Lavie92)
