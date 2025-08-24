@@ -13,7 +13,7 @@
 
 ## 📊 Coding Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sonlavie&layout=compact&theme=dracula&custom_title=Son%20Tran%27s%20Coding%20Stats&range=last_year)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sonlavie&layout=compact&theme=dracula&custom_title=Son%20Tran%27s%20Coding%20Stats&range=last_year&langs_count=10)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 
 ## 🧠 Key Project
