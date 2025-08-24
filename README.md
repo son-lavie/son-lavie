@@ -13,10 +13,10 @@
 
 ## 📊 Coding Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=son-lavie&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=son-lavie&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sonlavie&layout=compact&theme=dracula&custom_title=Son%20Tran%27s%20Coding%20Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sonlavie&layout=compact&theme=dracula&custom_title=Son%20Tran%27s%20Coding%20Stats" />
 </a>
 
 ## 🧠 Key Project
