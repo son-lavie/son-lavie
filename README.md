@@ -33,7 +33,7 @@ Currently working as a Android Developer at BIEXCE, based in Ho Chi Minh City, V
 
 ---
 
-## 📊 Coding Stats <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sonlavie&layout=compact&theme=dracula&custom_title=Son%20Tran%27s%20Coding%20Stats%20(Last%20Year)&range=last_year&langs_count=10" />
+## Coding Stats <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sonlavie&layout=compact&theme=dracula&custom_title=Son%20Tran%27s%20Coding%20Stats%20(Last%20Year)&range=last_year&langs_count=10" />
 
 ---
 
